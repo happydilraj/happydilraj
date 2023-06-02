@@ -9,7 +9,7 @@
 <a href="https://github.com/happydilraj" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="https://github.com/happydilraj" height="30" width="40" /></a>
 
 
-<a href="[https://github.com/happydilraj](https://www.linkedin.com/in/dilraj-singh-009613208/)" target="blank"><img align="center" src="https://www.shareicon.net/data/128x128/2015/09/22/644702_network_512x512.png" alt="https://github.com/happydilraj" height="30" width="40" /></a>
+<a href="[https://github.com/happydilraj](https://www.linkedin.com/in/dilraj-singh-009613208/)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://github.com/happydilraj" height="30" width="40" /></a>
 </p>
 
 
