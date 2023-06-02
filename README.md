@@ -6,8 +6,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://github.com/happydilraj" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="https://github.com/happydilraj" height="30" width="40" /></a>
+<a href="https://github.com/happydilraj" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="https://github.com/happydilraj" height="30" width="40" /></a>
 </p>
+<p align="left">
+<a href="[https://github.com/happydilraj](https://www.linkedin.com/in/dilraj-singh-009613208/)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/61/61109.png?w=740&t=st=1685732462~exp=1685733062~hmac=3c15b4c2dc30b3f8beb4e89bb27e48195ca9ae94101ae8b3fb88ea40d372aa98" alt="https://github.com/happydilraj" height="30" width="40" /></a>
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=happydilraj&show_icons=true&locale=en" alt="happydilraj" /></p>
 
