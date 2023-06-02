@@ -7,8 +7,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/happydilraj" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="https://github.com/happydilraj" height="30" width="40" /></a>
-
-
 <a href="[https://github.com/happydilraj](https://www.linkedin.com/in/dilraj-singh-009613208/)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://github.com/happydilraj" height="30" width="40" /></a>
 </p>
 
