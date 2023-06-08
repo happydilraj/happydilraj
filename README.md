@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Dilraj</h1>
 <h3>🤖&nbsp;A passionate web developer</h3>
-<h3>👻&nbsp;MERN stack</h3>
-<h3>🏫&nbsp;From IIT BHU</h3>
+<h3>🛠️&nbsp;MERN stack</h3>
+<h3>🎓&nbsp;From IIT BHU</h3>
 
 
 <h3 align="left">Connect with me:</h3>
